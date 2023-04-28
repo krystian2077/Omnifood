@@ -7,7 +7,7 @@
 
 # 🚩 Table of Contents
 
-<<<<<<< HEAD
+
 - [🚩 Table of Contents](#-table-of-contents)
   - [🚀 Live Demo](#-live-demo)
   - [💬 About The Project](#-about-the-project)
@@ -15,7 +15,7 @@
   - [🌏 Getting Started](#-getting-started)
   - [🐾 Roadmap](#-roadmap)
   - [📞 Contact](#-contact)
->>>>>>> d16684781957b6b92fc7f1cb303e4bc782563871
+
 
 ## 🚀 Live Demo
  Link: https://myfirstbigproject-krystian.netlify.app
